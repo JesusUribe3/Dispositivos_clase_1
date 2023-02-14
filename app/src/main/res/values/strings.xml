@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dispositivos_clase_1</string>
+    <string name="Titulo">Dados</string>
+    <string name="DadoUno">Dado_1</string>
+    <string name="DadoDos">Dado_2</string>
+    <string name="Resultado">Resultado</string>
+
+
+</resources>
